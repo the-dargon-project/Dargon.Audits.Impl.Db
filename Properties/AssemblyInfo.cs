@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Dargon.Audits.Impl.Db")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Dargon Auditing Implementation")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("The Dargon Project")]
 [assembly: AssemblyProduct("Dargon.Audits.Impl.Db")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
